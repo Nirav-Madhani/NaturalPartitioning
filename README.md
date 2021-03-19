@@ -104,4 +104,5 @@ This time, rather than just printing, I'm using dictionary to store partition ra
    
    Sample Tree:
    
-   
+   ![image](https://user-images.githubusercontent.com/77914957/111797856-87182580-88ef-11eb-9c61-06c34e24fcce.png)
+
